@@ -1,0 +1,5 @@
+name: BlockPainter
+version: 0.0.1
+main: dercraven.blockpainter.BlockPainter
+api-version: 1.18
+description: a

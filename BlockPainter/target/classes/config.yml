@@ -1,0 +1,4 @@
+PaintBrushTool: STICK #the item you need to hold in your main hand, think of it like a paint brush
+PaintRemoverTool: GOLD_SWORD #this doesn't work currently, will be implemented in the future
+PaintRemoveChance: 125 #random chance, out of a 1000, that a paint item will be removed. 125 corresponds to 12.5% chance. set to 0 to not use any paint
+PaintableBlocks: WOOL,TERRACOTTA,STAINED_GLASS_PANE,STAINED_GLASS,GLASS_PANE,GLASS,CONCRETE,CONCRETE_POWDER
